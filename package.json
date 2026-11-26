@@ -1,0 +1,12 @@
+{
+  "name": "@extantape/payload-plugin-admin-theme",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Admin theme for Payload: Bold or Quiet, light or dark, by swapping Payload's color variables, with every text and background pair checked for WCAG AA contrast.",
+  "keywords": ["payload", "payload-plugin", "payloadcms", "admin-theme", "theme", "dark-mode", "accessibility", "wcag", "contrast"],
+  "license": "MIT",
+  "homepage": "https://github.com/ExtantApe/payload-plugin-admin-theme#readme",
+  "repository": { "type": "git", "url": "git+https://github.com/ExtantApe/payload-plugin-admin-theme.git" },
+  "type": "module",
+  "engines": { "node": ">=22" }
+}
